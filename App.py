@@ -1113,7 +1113,7 @@ with tab3:
     # Data playground
     st.markdown("""
     <div class="card">
-        <h3>🔧 Data Playground</h3>
+        <h3>Data Playground</h3>
         <p>Practice with sample datasets and test your skills.</p>
     </div>
     """, unsafe_allow_html=True)
