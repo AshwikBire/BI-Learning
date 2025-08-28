@@ -1189,7 +1189,7 @@ with tab4:
         # Skill progression
         st.markdown("""
         <div class="card">
-            <h3>📊 Skill Progression</h3>
+            <h3>Skill Progression</h3>
         </div>
         """, unsafe_allow_html=True)
         
@@ -1252,7 +1252,7 @@ with tab4:
         # Achievement timeline
         st.markdown("""
         <div class="card">
-            <h3>🏆 Achievement Timeline</h3>
+            <h3>Achievement Timeline</h3>
         </div>
         """, unsafe_allow_html=True)
         
@@ -1307,7 +1307,7 @@ with tab4:
         st.metric("Peak Learning Time", "10:00 AM", "-1h")
     
     # Weekly learning pattern
-    st.markdown("#### 📅 Weekly Learning Pattern")
+    st.markdown("#### 📅Weekly Learning Pattern")
     days = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
     hours = [2.5, 3.2, 1.8, 2.7, 3.5, 4.2, 2.0]
     
