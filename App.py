@@ -1083,7 +1083,7 @@ with tab3:
     with col2:
         st.markdown("""
         <div class="card">
-            <h3>📊 Power BI Challenges</h3>
+            <h3>Power BI Challenges</h3>
         </div>
         """, unsafe_allow_html=True)
         
